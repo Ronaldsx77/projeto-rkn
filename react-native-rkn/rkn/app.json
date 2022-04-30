@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rkn",
+    "slug": "rkn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rkn"
+}
